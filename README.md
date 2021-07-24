@@ -22,7 +22,11 @@ pip3 install -r requirements.txt
 
 ## Usage
 
-Running the script will output HTLC event information both to the screen and to a file.
+Running the script 
+```
+python3 stream-lnd-htlcs.py 
+```
+will output HTLC event information both to the screen and to a file.
 
 ### Command line arguments
 
